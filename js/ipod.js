@@ -1,5 +1,4 @@
 // HTML5 Audio powered iPod by JD - jamesduncombe.com
-// Updated - 22/01/11
 $(function() {
 
 	var jd_audio = {
